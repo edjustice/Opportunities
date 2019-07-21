@@ -41,7 +41,6 @@ possible!
 
 | Internship | Deadline | Eligibility | Includes |
 | --- | --- | --- | --- |
-|  |  |  | |
 
 # III. Other Opportunities In Tech
 
@@ -52,6 +51,6 @@ possible!
 
 ## 2020 FELLOWSHIPS & OTHER OPPORTUNITIES
 
-| Internship | Deadline | Eligibility | Includes |
+| Opportunity | Deadline | Eligibility | Includes |
 | --- | --- | --- | --- |
-|  |  |  | |
+
