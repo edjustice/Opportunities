@@ -39,10 +39,10 @@ possible!
 
 ## 2020 INTERNSHIPS
 
-| Internship | Deadline | Eligibility | Includes |
-| --- | --- | --- | --- |
-| American Express Campus Recruitment – 2020 Technology Software Engineering Internship | Rolling Basis| Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
-Students must have a graduation date between December 2020 and June 2022 | Join our 10 week paid summer internship program where you will have opportunities for development, networking and also engage with our Executives. A summer internship at American Express will give you the chance to influence and strengthen the core businesses across the organization. |
+| Internship | Deadline | Eligibility |
+| --- | --- | --- | 
+| [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
+Students must have a graduation date between December 2020 and June 2022 |
 
 # III. Other Opportunities In Tech
 
@@ -55,4 +55,5 @@ possible!
 
 | Opportunity | Deadline | Eligibility | Includes |
 | --- | --- | --- | --- |
+
 
