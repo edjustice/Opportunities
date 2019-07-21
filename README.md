@@ -42,7 +42,7 @@ possible!
 | Internship | Deadline | Eligibility |
 | --- | --- | --- | 
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
-Students must have a graduation date between December 2020 and June 2022 |
+Graduates between Dec 2020 and June 2022 |
 
 # III. Other Opportunities In Tech
 
