@@ -11,7 +11,7 @@ possible!
 ### Contributing
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues).
+[Issue](https://github.com/TechLovers2020/Opportunities/Issues).
 
 ## 2019 Scholarships
 
