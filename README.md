@@ -41,6 +41,7 @@ possible!
 
 | Internship | Deadline | Eligibility |
 | --- | --- | --- | 
+| [](https://www.afrijob.org/) | Rolling | Interested in tech, finance, medicine, law, marketing, strategy or any other field? All majors are welcome to apply |
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
 Graduates between Dec 2020 and June 2022 |
 
