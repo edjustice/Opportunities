@@ -11,7 +11,7 @@ possible!
 ### Contributing
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/TechLovers2020/Opportunities/Issues).
+[Issue](https://github.com/TechLovers2020/Opportunities/issues).
 
 ## 2019 Scholarships
 
