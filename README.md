@@ -58,5 +58,5 @@ possible!
 | --- | --- | --- | 
 | [Davidson Fellows Scholarship ](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/technology-scholarships/davidson-fellows-scholarship/) | February 13, 2020 | The Davidson Fellows Scholarship awards $50,000, $25,000 and $10,000 scholarships to extraordinary young people, 18 and under, who have completed a significant piece of work. Application categories are Science, Technology, Engineering, Mathematics, Literature, Music, Philosophy and Outside the Box. |
 
-| [Link to all the GHC Scholarships and Internships in Tech](https://github.com/TechLovers2020/Opportunities/blob/master/README.md) |
+
 
