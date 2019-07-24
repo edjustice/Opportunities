@@ -42,6 +42,7 @@ possible!
 | [Afrijob Internships](https://www.afrijob.org/) | Rolling | Interested in tech, finance, medicine, law, marketing, strategy or any other field? Intern in the Silicon Savannah All majors are welcome to apply |
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
 Graduates between Dec 2020 and June 2022 |
+| [Los Alamos National Laboratory 	Computational Sciences Undergraduate Internship Program](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php) | September 30, 2019 | Currently enrolled in an accredited Bachelor’s Degree program in any Computer Science or Mathematics (or related) discipline. Must be enrolled in at least 12 semester credit hours (or full-time equivalent). Entering freshmen must provide documentation indicating matriculation into an appropriate undergraduate degree program. Must have a GPA of 3.0 or higher.|
 
 # III. Other Opportunities In Tech
 
