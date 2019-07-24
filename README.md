@@ -1,6 +1,15 @@
 # Opportunities
 A comprehensive list of conferences, scholarships and internships in Tech.
-# I. Tech Confrence Scholarships 
+
+# Index
+* [Tech Confrence Scholarships](#tech-confrence-scholarships)
+    * [2019 Sccholarships](#2019-scholarships)
+* [Tech Internships](#tech-internships)
+    * [2020 Tech Internships](#2020-internships)
+* [Other Opportunities In Tech](#other-opportunities-in-tech)
+    * [2020 Fellowshops and other opportunities](#2020-fellowships-and-other-opportunities)
+
+# Tech Confrence Scholarships 
 # *Go down for internships and other opportunities!*
 
 Comprehensive list of student scholarships for [All upcoming conferences in Tech](. This list aims
@@ -28,7 +37,7 @@ To add to this, send a pull request. If you aren't familiar enough with git/Gith
 | [Wonder Women Tech](https://docs.google.com/forms/d/e/1FAIpQLSe7e1KtlRjuenBHexr8gXZ9DicYGPe65OJmdCpgmOZMHYrzEw/viewform) | September 6 | Unspecified | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Conference on Neural Information Processing System](https://docs.google.com/forms/d/e/1FAIpQLSft7hjiX0ZJEIGO7eWfWz66neL547Vx_j8Z0KnXXVANGjbvTQ/viewform) | October 7 |In order to apply for the North America Google Conference & Travel Scholarship, you must fulfill the following eligibility requirements:Have a strong academic and/or professional background with demonstrated leadership ability. Be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. | 
 
-# II. Tech  Internships 
+# Tech  Internships 
 
 Comprehensive list of student internships for [All upcoming internships in Tech](. This list aims
 to cover all relevant internships, even if they apply to specific sub-groups
@@ -43,15 +52,14 @@ possible!
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
 Graduates between Dec 2020 and June 2022 |
 | [Los Alamos National Laboratory 	Computational Sciences Undergraduate Internship Program](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php) | September 30, 2019 | Currently enrolled in an accredited Bachelor’s Degree program in any Computer Science or Mathematics (or related) discipline. Must be enrolled in at least 12 semester credit hours (or full-time equivalent). Entering freshmen must provide documentation indicating matriculation into an appropriate undergraduate degree program. Must have a GPA of 3.0 or higher.|
-
-# III. Other Opportunities In Tech
+# Other Opportunities In Tech
 
 Comprehensive list of student internships for [Other upcoming opportunities in Tech](. This list aims
 to cover all relevant fellowships and opportunities, even if they apply to specific sub-groups
 (LGBTQ+, specific country, etc) to enable as many students to attend empowering conferences and events as
 possible!
 
-## 2020 FELLOWSHIPS & OTHER OPPORTUNITIES
+## 2020 FELLOWSHIPS AND OTHER OPPORTUNITIES
 
 | Opportunity | Deadline | Details |
 | --- | --- | --- | 
