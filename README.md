@@ -36,10 +36,6 @@ possible!
 | Internship | Deadline | Eligibility |
 | --- | --- | --- | 
 | [Microsoft Explore](https://careers.microsoft.com/us/en/job/650947/Internship-Opportunities-for-Students-Explore-Microsoft-Internship) | -- | Explore Microsoft is a 12-week summer internship program specifically designed for students in their first or second year of a bachelor’s degree program and provides the opportunity to experience the main phases of the product development cycle: Design, Build and Quality. This program is designed to encourage your interest in in computer science, computer engineering, or a related technical discipline. |
-
- 
-
-The Explore Internship is intended for students who are beginning their academic studies and would like to learn more about careers in software development through a learning program. Interns will gain group project experience working alongside other Explore Interns. Your on-the-job learning will be enhanced with mentoring, community building and networking opportunities. |
 | [Afrijob Internships](https://www.afrijob.org/) | Rolling | Interested in tech, finance, medicine, law, marketing, strategy or any other field? Intern in the Silicon Savannah All majors are welcome to apply |
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
 Graduates between Dec 2020 and June 2022 |
