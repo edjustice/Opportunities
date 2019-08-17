@@ -36,6 +36,12 @@ possible!
 | Internship | Deadline | Eligibility |
 | --- | --- | --- | 
 | [Microsoft Explore](https://careers.microsoft.com/us/en/job/650947/Internship-Opportunities-for-Students-Explore-Microsoft-Internship) | -- | Explore Microsoft is a 12-week summer internship program specifically designed for students in their first or second year of a bachelor’s degree program and provides the opportunity to experience the main phases of the product development cycle: Design, Build and Quality. This program is designed to encourage your interest in in computer science, computer engineering, or a related technical discipline. |
+| [Microsoft Internship Opportunities for Students: Software Engineering & Program ](https://www.google.com/search?rlz=1C1GCEU_enUS826US827&ei=Fo1YXeXPFZLytAWak5yABg&q=microsoft+open+internships+summer+2020&oq=microsoft+open+internships+summer+2020&gs_l=psy-ab.3..33i22i29i30.9456.13954..14314...3.0..1.229.1928.3j11j1......0....1..gws-wiz.......33i160.6zm68555B3w&uact=5&ibp=htl;jobs&sa=X&ved=2ahUKEwj6-Yz-hovkAhUBMqwKHWIaBXcQiYsCKAF6BAgJEAw#fpstate=tldetail&htidocid=I2LIMQTqqPkhDOUMAAAAAA%3D%3D&htivrt=jobs) | -- |Software engineers at Microsoft are passionate about building technologies that make the world a better place. At Microsoft, you will collaborate with others to solve problems and build some of the world's most advanced services and devices. Your efforts on the design, development, and testing of next-generation applications will have an impact on millions of people.
+Do you want to work on a meaningful and impactful project and make a difference?
+Are you willing to learn from others and open to new ideas?
+Do you want to support others to succeed and operate in a highly-collaborative and global environment?
+If this sounds like you, Microsoft would like to invite you to come join us as you are, where you can find more than just a job.
+Read on to learn more about opportunities and apply online. |
 | [Afrijob Internships](https://www.afrijob.org/) | Rolling | Interested in tech, finance, medicine, law, marketing, strategy or any other field? Intern in the Silicon Savannah All majors are welcome to apply |
 | [American Express Campus Recruitment – 2020 Technology Software Engineering Internship ](https://www.indeed.com/q-Summer-Technology-Internship-jobs.html?vjk=5fcc417a8e155f27) | Rolling | Currently enrolled in a Bachelor's or Master's degree program in Computer Science, Computer Engineering, or other technical discipline
 Graduates between Dec 2020 and June 2022 |
