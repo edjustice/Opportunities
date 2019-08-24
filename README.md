@@ -6,7 +6,6 @@ to cover all relevant opportunities, even if they apply to specific sub-groups (
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
 [Issue](https://github.com/TechLovers2020/Opportunities/issues).
-https://www.cvent.com/Events/Register/RegQuestions.aspx?rc=6c676f4b-a1ef-4c46-80a0-8228c8ca0c41
 
 # I. 2020 Tech  Internships 
 | Internship | Deadline | Eligibility |
@@ -27,13 +26,14 @@ https://www.cvent.com/Events/Register/RegQuestions.aspx?rc=6c676f4b-a1ef-4c46-80
 |[Facebook SWE Internship - London](https://www.facebook.com/careers/jobs/702665046848694/) | -- | 1 or more years of experience with perl, java, php, python, or c++ Must be currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelors or Masters degree in Computer Science or a related field | 
 |[Facebook SWE Internship - Brazil](https://www.facebook.com/careers/jobs/1317617391735318/)| -- | 1 or more years of experience with perl, java, php, python, or c++ Must be currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelors or Masters degree in Computer Science or a related field |
 
-## 2019 Scholarships
+## II. 2019 Scholarships to Conferences & Scholarships
 
 | Scholarship | Deadline | Eligibility | Includes |
 | --- | --- | --- | --- |
 | [Society of Hispanic Professional Engineers National Convention](https://docs.google.com/forms/d/e/1FAIpQLSedkqfnl3YbHNFf5UUxF6Pm_zADUCMzuacrU3856XWi8UQQCA/viewform) | August 30 | Must have a strong academic and/or professional background with demonstrated leadership ability. Be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Prospanica Conference & Career Expo ](https://docs.google.com/forms/d/e/1FAIpQLSdeqymvEVIRZrmvatEAEQm7GvA6VxVWvnfPRAL6XI3XS39hCw/viewform) | August 30 | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Afrotech](https://docs.google.com/forms/d/e/1FAIpQLSf71z_QrNmd0cOpUOwY5vImXLiivnrVS_5tTY1JO4Q7beJ6aA/viewform) | September 2 | Unspecified |Must: be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
+|[PNC Tech Recruiting Conference](https://www.cvent.com/Events/Register/RegQuestions.aspx?rc=6c676f4b-a1ef-4c46-80a0-8228c8ca0c41)|  Friday, September 6th | -- | Food, Transport & Housing |
 | [Society of Women Engineers Annual Conference](https://docs.google.com/forms/d/e/1FAIpQLSfjBJoNTbfofkuXx_NkCxw6sDC7biyw5Fh0aamavuU8M11Atg/viewform) | September 2 | Must have a strong academic and/or professional background with demonstrated leadership ability. Be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Wonder Women Tech](https://docs.google.com/forms/d/e/1FAIpQLSe7e1KtlRjuenBHexr8gXZ9DicYGPe65OJmdCpgmOZMHYrzEw/viewform) | September 6 | Unspecified | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Conference on Neural Information Processing System](https://docs.google.com/forms/d/e/1FAIpQLSft7hjiX0ZJEIGO7eWfWz66neL547Vx_j8Z0KnXXVANGjbvTQ/viewform) | October 7 | Must have a strong academic and/or professional background with demonstrated leadership ability. Be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. | 
