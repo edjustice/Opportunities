@@ -1,27 +1,14 @@
 # Opportunities
-A comprehensive list of conferences, scholarships and internships in Tech.
-# I. Tech Confrence Scholarships 
-# *Go down for internships and other opportunities!*
-
-Comprehensive list of student scholarships for [All upcoming conferences in Tech](. This list aims
-to cover all relevant scholarships, even if they apply to specific sub-groups
-(LGBTQ+, specific country, etc) to enable as many students to attend empowering conferences and events as
-possible!
+Comprehensive list of  CONFERENCES, SCHOLARSHIPS and INTERSHIPS for [Upcoming conferences in Tech](. This list aims
+to cover all relevant opportunities, even if they apply to specific sub-groups (LGBTQ+, specific country, etc) to enable as many students to attend empowering conferences and events as possible!
 
 ### Contributing
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
 [Issue](https://github.com/TechLovers2020/Opportunities/issues).
+https://www.cvent.com/Events/Register/RegQuestions.aspx?rc=6c676f4b-a1ef-4c46-80a0-8228c8ca0c41
 
-# I. Tech  Internships 
-
-Comprehensive list of student internships for [All upcoming internships in Tech](. This list aims
-to cover all relevant internships, even if they apply to specific sub-groups
-(LGBTQ+, specific country, etc) to enable as many students to attend empowering conferences and events as
-possible!
-
-## 2020 INTERNSHIPS
-
+# I. 2020 Tech  Internships 
 | Internship | Deadline | Eligibility |
 | --- | --- | --- | 
 |[BOLD Intern, Summer 2020, United States](https://careers.google.com/jobs/results/74304286818738886-bold-intern-summer-2020-united-states/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=&sort_by=relevance) | Applications are currently closed, however, please check back when the application window reopens in September 2019  Internship: 11 weeks starting in late-May/June 2020 | This application is intended for candidates who are eligible for full-time work authorization in the U.S. upon completing their education. For internship opportunities in the location where you are eligible for full-time work authorization, please check google.com/students. |
