@@ -1,11 +1,6 @@
 # Opportunities
-Comprehensive list of  CONFERENCES, SCHOLARSHIPS and INTERSHIPS for [Upcoming conferences in Tech](. This list aims
+Comprehensive list of  CONFERENCES, SCHOLARSHIPS and INTERSHIPS for [Upcoming conferences in Tech]. This list aims
 to cover all relevant opportunities, even if they apply to specific sub-groups (LGBTQ+, specific country, etc) to enable as many students to attend empowering conferences and events as possible!
-
-### Contributing
-
-To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/TechLovers2020/Opportunities/issues).
 
 # I. 2020 Tech  Internships 
 | Internship | Deadline | Eligibility |
