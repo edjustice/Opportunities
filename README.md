@@ -7,7 +7,6 @@ to cover all relevant opportunities, even if they apply to specific sub-groups (
 
 | Scholarship | Deadline | Eligibility | Includes |
 | --- | --- | --- | --- |
-| [Wonder Women Tech](https://docs.google.com/forms/d/e/1FAIpQLSe7e1KtlRjuenBHexr8gXZ9DicYGPe65OJmdCpgmOZMHYrzEw/viewform) | September 6 | Unspecified | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. |
 | [Conference on Neural Information Processing System](https://docs.google.com/forms/d/e/1FAIpQLSft7hjiX0ZJEIGO7eWfWz66neL547Vx_j8Z0KnXXVANGjbvTQ/viewform) | October 7 | Must have a strong academic and/or professional background with demonstrated leadership ability. Be able to attend the core day(s) of one of the conferences. Persons who are (1) residents of North America and US Territories, (2) studying or working in North America, or (3) will be in North America at the time of the conference Applicants must be 18 years of age or older | Conference ticket, hotel room, flight, and a stipend to cover transportation, luggage, and meals. | 
 | [Women in Analytics Conference. ](https://womeninanalytics.com/conference/scholarship-applications) |  Sunday, March 1st, 2020 | Eligibility: Applicants must identify either as a woman, genderqueer or non-binary. | Included: The Fly-In Scholarship covers up to $400 for airfare and includes one full conference pass to the Women in Analytics Conference on June 3-5, 2020 in Columbus, OH. Reimbursement for airfare will be provided upon check-in at the conference. |
 
